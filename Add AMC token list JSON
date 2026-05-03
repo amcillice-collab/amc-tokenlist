@@ -1,0 +1,22 @@
+{
+  "name": "Art Market Coin List",
+  "timestamp": "2026-05-03T12:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://jwwb.nl",
+  "keywords": ["art", "ethereum", "uniswapv4", "rwa"],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x69E658650B4881B0c821d3bF4053013f71D5E3A7",
+      "symbol": "AMC",
+      "name": "Art Market Coin",
+      "decimals": 18,
+      "logoURI": "https://jwwb.nl",
+      "tags": ["art-market"]
+    }
+  ]
+}
