@@ -15,6 +15,6 @@ Official repository for Art Market Coin (AMC) token metadata, verified liquidity
 - **GeckoTerminal Pool:** https://geckoterminal.com
 
 ## Official Ecosystem Links
-- **Website:** https://https://www.artmarketcoin.es/
-- **Twitter/X:** https://x.com Art_Market_Coin
-- **Telegram:** https://t.meArtMarketCoin_ES
+- **Website:** https://www.artmarketcoin.es/
+- **Twitter/X:** https://x.com Art_Market_Coin/
+- **Telegram:** https://t.meArtMarketCoin_ES/
